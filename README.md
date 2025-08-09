@@ -24,12 +24,12 @@ The result (Win/Loss/Draw) is displayed
 1. Clone the repo:
    ```bash
    git clone https://github.com/Shamveel17/rock-paper-scissors-gui.git
-2.Navigate to the folder:
+2. Navigate to the folder:
    bash
    cd rock-paper-scissors-gui
-3.Install dependencies:
+3. Install dependencies:
    bash
    pip install pillow
-4.Run the game:
+4. Run the game:
    bash
    python main.py
